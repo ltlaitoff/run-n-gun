@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: gun-n-run
+Implementation-Version: 1.0.0
+Main-Class: org.gunnrun.helloworld.MainKt
+
